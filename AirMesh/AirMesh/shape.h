@@ -1,6 +1,6 @@
 #pragma once
 #include <stdlib.h>
-#include "gl\glut.h"
+#include "gl/glut.h"
 #include <vector>
 
 using namespace std;
